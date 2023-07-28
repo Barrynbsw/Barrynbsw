@@ -3,6 +3,7 @@
  i'm a student from china,causee I'm going to take the postgraduate exam, I want to do some projects first, and then I don't have time to do it。
 
 Contact me on Twitter：[barrynbsw](https://twitter.com/barrynbsw?s=09)
+LeetCode:[国服第一阿卡丽](https://leetcode.cn/u/bold-engelbart3k5/)
 
 
 <!---
