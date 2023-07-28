@@ -1,6 +1,6 @@
 # Hello everyone,it's barry. this is my private repository record.
 
- i'm a student from china,causee I'm going to take the postgraduate exam, I want to do some projects first, and then I don't have time。
+ i'm a student from china,causee I'm going to take the postgraduate exam, I want to do some projects first, and then I don't have time to do it。
 
 Contact me on Twitter：[barrynbsw](https://twitter.com/barrynbsw?s=09)
 
