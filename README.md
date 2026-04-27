@@ -1,4 +1,4 @@
-# Hello everyone,it's barry. this is my private repository record.
+# Hello everyone,it's barry,A passionate Full-Stack Developer (and definitely not a hacker 😉). this is my private repository record.
 
  i'm a student from china,a confident and capable university student with a passion for learning and problem-solving. I thrive in dynamic environments, enjoy tackling challenges, and am excited to make a meaningful impact with my skills and dedication.
 
